@@ -1,0 +1,32 @@
+[
+	{
+		"file" : {
+			"en" : "articles/en/backup.md",
+			"de" : "articles/de/backup.md"
+		},
+		"title" : {
+			"en" : "Backup and Data Security",
+			"de" : "Backup und Datensicherheit"
+		}
+	},
+	{
+		"file" : {
+			"en" : "articles/en/ssh.md",
+			"de" : "articles/de/ssh.md"
+		},
+		"title" : {
+			"en" : "SSH: Access files / log in from home",
+			"de" : "SSH: Dateizugriff / Login von zu Hause"
+		}
+	},
+	{
+		"file" : {
+			"en" : "articles/en/firefox.md",
+			"de" : "articles/de/firefox.md"
+		},
+		"title" : {
+			"en" : "Firefox is not starting",
+			"de" : "Firefox startet nicht"
+		}
+	}
+]

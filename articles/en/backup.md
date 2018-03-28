@@ -1,0 +1,5 @@
+All files you store in your home folder or in the cipuser-folder will be backed up to the RUS every second day.
+
+If you accidentially delete a file, we can restore it for you for a period of 60 days. If you change a file and need the old version back, we can restore it for you within 3 days. If you need a restore of a backup, immediately e-mail us under support (at) physcip.uni-stuttgart.de and tell us the place, where you stored the file and the filename. We will do our best to restore the file. We don't take any responsibility for the availability of your files.
+
+Also we cannot guarantee, that restoring a backup is possible. We recommend you to synchronize all your important data to another place. For data of any kind, services like Dropbox are available (2GB free storage). For source code [BitBucket](https://bitbucket.org) or [GitHub](https://github.com) (where you get an account with unlimited storage, if you sign up with your student E-Mail-address) or the [University's GitHub Enterprise](https://github.tik.uni-stuttgart.de) are available.

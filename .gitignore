@@ -1,0 +1,15 @@
+*
+!.gitignore
+!README.md
+!articles
+articles/*
+!articles/de
+!articles/en
+articles/de/*
+articles/en/*
+!articles/de/*.md
+!articles/en/*.md
+!articles.json
+!img
+img/*
+!img/*.png
