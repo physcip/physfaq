@@ -28,5 +28,15 @@
 			"en" : "Firefox is not starting",
 			"de" : "Firefox startet nicht"
 		}
+	},
+	{
+		"file" : {
+			"en" : "articles/en/shortcuts.md",
+			"de" : "articles/de/shortcuts.md"
+		},
+		"title" : {
+			"en" : "Shortcuts and Special Character",
+			"de" : "Tastenkürzel und Sonderzeichen"
+		}
 	}
 ]
