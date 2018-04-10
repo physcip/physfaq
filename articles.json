@@ -48,5 +48,25 @@
 			"en" : "Printer and printing quota",
 			"de" : "Drucker und Druckkontingent"
 		}
+	},
+	{
+		"file" : {
+			"en" : "articles/en/shares.md",
+			"de" : "articles/de/shares.md"
+		},
+		"title" : {
+			"en" : "Share files with other users",
+			"de" : "Dateien mit anderen Nutzern teilen"
+		}
+	},
+	{
+		"file" : {
+			"en" : "articles/en/support.md",
+			"de" : "articles/de/support.md"
+		},
+		"title" : {
+			"en" : "Support - Contact the Administrators",
+			"de" : "Hilfe - Administratoren kontaktieren"
+		}
 	}
 ]
