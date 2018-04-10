@@ -51,6 +51,16 @@
 	},
 	{
 		"file" : {
+			"en" : "articles/en/scan.md",
+			"de" : "articles/de/scan.md"
+		},
+		"title" : {
+			"en" : "Scanning a document",
+			"de" : "Dokument Scannen"
+		}
+	},
+	{
+		"file" : {
 			"en" : "articles/en/shares.md",
 			"de" : "articles/de/shares.md"
 		},
