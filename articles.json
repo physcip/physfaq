@@ -5,7 +5,7 @@
 			"de" : "articles/de/backup.md"
 		},
 		"title" : {
-			"en" : "Backup and Data Security",
+			"en" : "Backup and data security",
 			"de" : "Backup und Datensicherheit"
 		}
 	},
@@ -35,8 +35,18 @@
 			"de" : "articles/de/shortcuts.md"
 		},
 		"title" : {
-			"en" : "Shortcuts and Special Character",
+			"en" : "Shortcuts and special characters",
 			"de" : "Tastenkürzel und Sonderzeichen"
+		}
+	},
+	{
+		"file" : {
+			"en" : "articles/en/printer.md",
+			"de" : "articles/de/printer.md"
+		},
+		"title" : {
+			"en" : "Printer and printing quota",
+			"de" : "Drucker und Druckkontingent"
 		}
 	}
 ]
