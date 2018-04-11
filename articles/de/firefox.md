@@ -4,10 +4,10 @@ Wenn sich Firefox nicht ordnungsgemäß beendet, kann es passieren, dass Firefox
 Close Firefox: A copy of Firefox is already open. Only one copy of Firefox can be open at a time.
 ```
 
-Damit Firefox wieder startet müsst ihr die Datei `.parentlock` in folgendem Pfad löschen: `~/Library/Application Support/Firefox/Profiles/.default/.parentlock`.
+Damit Firefox wieder startet müsst ihr die Datei `.parentlock` in eurem Firefox-Nutzerprofil (`~/Library/Application Support/Firefox/Profiles/.default/*.parentlock`) löschen.
 Den Pfad könnt ihr im Terminal mit `find ~/ -iname .parentlock` herausfinden.
 
 Folgender Terminal-Befehl löst also das Problem:
 ```
-rm ~/Library/Application Support/Firefox/Profiles/.default/.parentlock
+rm ~/Library/Application\ Support/Firefox/Profiles/*.default/.parentlock
 ```
