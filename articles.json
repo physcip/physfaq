@@ -71,6 +71,16 @@
 	},
 	{
 		"file" : {
+			"en" : "articles/en/keyboardlayout.md",
+			"de" : "articles/de/keyboardlayout.md"
+		},
+		"title" : {
+			"en" : "Change the layout of Your keyboard",
+			"de" : "Passe dein Keyboard Layout an"
+		}
+	},
+	{
+		"file" : {
 			"en" : "articles/en/support.md",
 			"de" : "articles/de/support.md"
 		},

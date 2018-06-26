@@ -1,28 +1,28 @@
 # How to change Your keyboard layout
 * First click on the search icon in the upper left corner and type "keyboard" into the prompt
 
-  ![search.png](/../../img/search.png)
+  ![search.png](../../img/article_keyboard_search.png)
 
-  ![keyboard_search.png](/../../img/keyboard_search.png)
+  ![keyboard_search.png](../../img/article_keyboard_keyboard_search.png)
 
 * Select "Input Sources"
 
-  ![input.png](/../../img/input.png)
+  ![input.png](../../img/article_keyboard_input.png)
 
 * click on the "\+" sign in the left corner
 
-  ![selcetion.png](/../../img/selection.png)
+  ![selcetion.png](../../img/article_keyboard_selection.png)
 
 * Type in Your language. In this example "Australian"
 
-  ![keyboardtype.png](/../../img/keyboardtype.png)
+  ![keyboardtype.png](../../img/article_keyboard_keyboardtype.png)
 
-  ![example.png](/../../img/example.png)
+  ![example.png](../../img/article_keyboard_example.png)
 
-* After you added Your language to the active keyboard layouts, click onto the flag in the upper left corner and select your keyboard layout from the availiable layouts, in this example "Australian"
+* After you added Your language to the active keyboard layouts, click the flag in the upper left corner and select your keyboard layout from the available layouts, in this example "Australian"
 
-  ![example1.png](/../../img/example1.png)
+  ![example1.png](../../img/article_keyboard_example1.png)
 
-  ![example2.png](/../../img/example2.png)
+  ![example2.png](../../img/article_keyboard_example2.png)
 
-  ![example3.png](/../../img/example3.png)
+  ![example3.png](../../img/article_keyboard_example3.png)
