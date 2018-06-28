@@ -1,5 +1,5 @@
 # How to change Your keyboard layout
-* First click on the search icon in the upper left corner and type "keyboard" into the prompt
+* First click on the search icon in the upper right corner and type "keyboard" into the prompt
 
   ![search.png](../../img/article_keyboard_search.png)
 
@@ -13,13 +13,13 @@
 
   ![selcetion.png](../../img/article_keyboard_selection.png)
 
-* Type in Your language. In this example "Australian"
+* Type in "Logitech" and select the german version of this keyboard.
 
   ![keyboardtype.png](../../img/article_keyboard_keyboardtype.png)
 
   ![example.png](../../img/article_keyboard_example.png)
 
-* After you added Your language to the active keyboard layouts, click the flag in the upper left corner and select your keyboard layout from the available layouts, in this example "Australian"
+* After you added the Logitech Layout as a active keyboard layout, click the flag in the upper right corner and select the keyboard layout from the available layouts
 
   ![example1.png](../../img/article_keyboard_example1.png)
 
