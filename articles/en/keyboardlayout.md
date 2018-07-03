@@ -1,5 +1,6 @@
-# How to change Your keyboard layout
-* First click on the search icon in the upper right corner and type "keyboard" into the prompt
+Follow these steps to get a "normal" (non-Mac) keyboard layout that matches the key legend.
+
+* First, click on the search icon in the upper right corner and type "keyboard" into the prompt
 
   ![search.png](../../img/article_keyboard_search.png)
 
@@ -9,17 +10,17 @@
 
   ![input.png](../../img/article_keyboard_input.png)
 
-* click on the "\+" sign in the left corner
+* click on the "\+" sign in the bottom left corner
 
   ![selcetion.png](../../img/article_keyboard_selection.png)
 
-* Type in "Logitech" and select the german version of this keyboard.
+* Type in "Logitech" and select e.g. the German version of this keyboard
 
   ![keyboardtype.png](../../img/article_keyboard_keyboardtype.png)
 
   ![example.png](../../img/article_keyboard_example.png)
 
-* After you added the Logitech Layout as a active keyboard layout, click the flag in the upper right corner and select the keyboard layout from the available layouts
+* After adding the Logitech layout as an active keyboard layout, click the flag in the upper right corner and select the keyboard layout from the list of available layouts
 
   ![example1.png](../../img/article_keyboard_example1.png)
 

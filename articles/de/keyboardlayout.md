@@ -1,12 +1,13 @@
-# Tastaturlayout ändern
-* Auf das Such-Icon im oberen rechten Bereich des Bildschirm klicken und in die Suchzeile "Tastatur" eingeben
+Folge diesen Schritten, um ein "normales" (nicht-Mac) Tastaturlayout zu erhalten, das der Tastenbeschriftung entspricht.
+
+* Auf das Such-Icon in der Leiste im oberen rechten Bereich des Bildschirms klicken und in die Suchzeile "Tastatur" eingeben
 
   ![Suchen.png](../../img/article_keyboard_Suchen.png)
 
   ![Tastatur_suche.png](../../img/article_keyboard_Tastatur_suche.png)
 
 
-* Auf den Reiter "Eingabequelle" klicken
+* Auf den Reiter "Eingabequellen" klicken
 
 	![Eingabe.png](../../img/article_keyboard_Eingabe.png)
 
@@ -14,11 +15,11 @@
 
 	![auswahl.png](../../img/article_keyboard_auswahl.png)
 
-* Dort den Tastaturtyp "Logitech" eingeben und das Deutsche Logitech Tastaturlaout hinzufügen
+* In die Suche den Tastaturtyp "Logitech" eingeben und das Deutsche Logitech Tastaturlaout hinzufügen
 
 	![beispiel.png](../../img/article_keyboard_beispiel.png)
 
-* Die Tastatur sollte nun neben der aktuellen Tastatur, in diesem Fall "Deutsch" angezeigt werden
+* Die Tastatur sollte nun neben der aktuellen Tastatur, in diesem Fall "Deutsch", angezeigt werden
 
 	![beispiel1.png](../../img/article_keyboard_beispiel1.png)
 
